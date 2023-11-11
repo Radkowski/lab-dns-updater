@@ -1,0 +1,17 @@
+{
+  "Network": {
+      "Vpc_id": "vpc-0a24e734f03473b3b"
+  },
+  "Route53": {
+      "HostName": "test",
+      "DomainName": "radkowski.com",
+      "DefaultWeight": 10,
+      "DefaultTTL": 300
+  },
+  "Settings": {
+      "WipeBeforeAdd": "True"
+  }
+}
+
+
+

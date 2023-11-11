@@ -1,0 +1,15 @@
+Parameters:
+
+  DeploymentPrefix: "RadkowskiLab-DNS"
+
+  Region: AWS Region - change me
+
+
+  AuthTags:
+    Owner: "me@radkowski.pro"   
+    Release: "1.0"
+  
+  CodePipeline:
+    S3: "S3 bucket name - change me"
+    
+
